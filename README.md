@@ -24,7 +24,7 @@
 
 - 🤓​ Hobbies : Rapid Running , swimming
 
-- 🔥​ My server Discord : "https://discord.com/spacefriend.gg"
+- 🔥​ My server Discord : "https://discord.com/Spacefriends.gg"
 
 
 <p align="left">
