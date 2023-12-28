@@ -22,11 +22,6 @@
 
 - 😍 Always learn new things
 
-- 🤓​ Hobbies : Rapid Running , swimming
-
-- 🔥​ My server Discord : "https://discord.com/Spacefriends.gg"
-
-
 <p align="left">
 </p>
 
