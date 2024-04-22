@@ -3,6 +3,9 @@
 
 <div align="center">
   <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammers-day&psig=AOvVaw3PF88U6r7DnHys9wwTNSSK&ust=1713888982435000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOCLgfic1oUDFQAAAAAdAAAAABAJ"  />
+
+ ![200w](https://github.com/LAMGAMATE/LAMGAMATE/assets/149851107/93d829fa-52cf-4dbb-915a-ad2adf761fa3)
+ 
 </div>
 
 
