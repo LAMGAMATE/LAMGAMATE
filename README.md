@@ -2,9 +2,9 @@
 <h3 align="center">from institute of management and computer science & marrakech</h3>
 
 <div align="center">
-  <img height="150" src=""  />
+  <img height="150" src="https://github.com/LAMGAMATE/LAMGAMATE/assets/149851107/93d829fa-52cf-4dbb-915a-ad2adf761fa3"  />
 
- ![200w](https://github.com/LAMGAMATE/LAMGAMATE/assets/149851107/93d829fa-52cf-4dbb-915a-ad2adf761fa3)
+ 
  
 </div>
 
